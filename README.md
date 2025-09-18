@@ -24,6 +24,17 @@ Hệ thống được xây dựng bằng Python với giao diện đồ họa `T
 
 ### 2. Cài đặt thư viện
 Chạy lệnh sau để cài toàn bộ dependencies:
+### 3. Các Thư Viện Cần Cài Đặt:
+
+Pillow: Xử lý hình ảnh (chụp ảnh màn hình, lưu trữ ảnh).
+
+MSS: Lấy ảnh màn hình từ Client.
+
+PyAutoGUI: Điều khiển chuột và bàn phím từ xa.
+
+APScheduler: Quản lý và lên lịch tác vụ.
+
+Pyperclip: Sao chép và dán văn bản giữa các hệ thống.
 
 ```bash
 pip install pillow mss pyautogui apscheduler pyperclip
@@ -77,3 +88,10 @@ python client_gui.py
 ## 📄 License
 Dự án dành cho mục đích học tập và nghiên cứu.  
 Bạn có thể tự do sử dụng và chỉnh sửa.
+5. Liên hệ
+Tác giả: Nguyễn Hải Phong
+
+📧 Email: phongankhoai3@gmail.com
+🏫 Trường: Đại học Đại Nam - Khoa Công nghệ Thông tin
+
+
